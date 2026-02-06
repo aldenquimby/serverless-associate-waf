@@ -1,5 +1,7 @@
 coverage/
 test/
+.idea/
+*.spec.js
 
 .editorconfig
 .travis.yml
