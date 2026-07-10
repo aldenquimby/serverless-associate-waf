@@ -1,9 +1,9 @@
 coverage/
 test/
 .idea/
+.claude/
 *.spec.js
 
 .editorconfig
-.travis.yml
 
 *.tgz
