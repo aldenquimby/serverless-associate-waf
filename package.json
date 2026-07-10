@@ -36,6 +36,11 @@
     "registry": "https://registry.npmjs.org",
     "access": "public"
   },
+  "dependencies": {
+    "@aws-sdk/client-cloudformation": "^3.1084.0",
+    "@aws-sdk/client-waf-regional": "^3.1084.0",
+    "@aws-sdk/client-wafv2": "^3.1084.0"
+  },
   "devDependencies": {
     "jest": "^30.2.0",
     "serverless": "^3.40.0"
